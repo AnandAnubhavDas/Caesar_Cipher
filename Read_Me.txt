@@ -1,0 +1,1 @@
+This program encodes or decodes a piece of text given by the user by shifting each alphabet by the number of characters given by the user just as in Caesar Cipher
